@@ -60,7 +60,7 @@
 - 핵심 역활 : 개인
 - 핵심 내용 : 스프링부트를 기초를 배우면서 게시판만들기
 
-> ### FullStack
+> ### Back-end
 > - Language : JAVA
 > - Skill : Springboot
 >   
@@ -74,11 +74,10 @@
 - 개인프로젝트
 - 개발기간 : 2023.04.10-2023.06.20
 - 핵심 역활 : 개인
-- 핵심 내용 : 여행사홈페이지(패키지여행)
+- 핵심 내용 : 여행사홈페이지, 로그인 및 회원가입등 UI 구현
 
 > ### Front-end
 > - Language : HTML,CSS,JAVASCRIPT
-> - Skill : 
 >   
 > [프로젝트 상세 설명(Front-end)](https://github.com/SeokHoL/homepageAssignment)
 
