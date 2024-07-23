@@ -27,7 +27,19 @@
 > ### Back-end
 > - Language : JAVA
 > - Skill : SpringBoot, MariaDB
-> - 
 > [프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/mztox)
->
+
+
+## 2. 🌤️ AIChatbotFriend
+
+  나만의연예인친구 만들기
+
+- 개발기간 : 2024.04.01-06.10
+- 핵심 역할 : 팀장(전체기능구현), OPENAI API를 사용하여 대화기능 및 사용자입력내용을 분석하여 감정에 따른 얼굴이미지와 답변기능 구현     
+
+> ### Back-end
+> - Language : python3
+> - Skill : Streamlit, LangChaing, OPENAI API
+> [프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/mztox)
+
 
