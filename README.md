@@ -34,7 +34,7 @@
 
 > 
 
-## 2. 🌤️ AIChatbotFriend
+## 2. 🤖 AIChatbotFriend
 
   나만의 AI연예인친구 만들기
   
@@ -51,7 +51,7 @@
 
 > 
 
-## 3. 🌤️ Bulletin-board-practice
+## 3. 📝 Bulletin-board-practice
 
   스프링부트로 게시판 만들기
 
@@ -67,7 +67,7 @@
 > [프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/Bulletin-board-practice)
 >
 
-## 4. 🌤️ homepageAssignment
+## 4. 🏖️ homepageAssignment
 
   여행사홈페이지
 
