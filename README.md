@@ -60,6 +60,6 @@
 > - Language : JAVA
 > - Skill : Springboot
 >   
-> [프로젝트 상세 설명(FullStack)](https://github.com/SeokHoL/Bulletin-board-practice)
+> [프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/Bulletin-board-practice)
 
 
