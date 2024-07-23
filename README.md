@@ -17,21 +17,17 @@
 
 
 
-1. 🌤️ **MyLittleTrip**
+1. 🌤️ **MZtoX**
 
-여행일정 추천 *(내일배움캠프 - 4416조 팀프로젝트)*
+MZ언어를 표준어로 바꿔 X세대도 알아들을수있는 번역기)*
 
-- 개발기간 : 2022.07.07-09.02
-- 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
+- 개발기간 : 2024.07.01-08.22
+- 핵심 역할 : 팀원(백엔드담당), Springboot,SpringSecurity,SrpingJWT를 사용하여 로그인, 회원가입 및 번역페이지 기능구현 및 MariaDB를 사용하여 DB 구축 // API명세서 작성          
 
 > ### Back-end
-> - Language : python3
-> - Skill : Django, Django-rest-framework, PostgreSQL
+> - Language : JAVA
+> - Skill : SpringBoot, MariaDB
+> - 
+> [프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/mztox)
 >
-> [프로젝트 상세 설명(Back-end)](링크를 여기에 입력)
->
-> ### Front-end
-> - Language : javascript
-> - Skill : React.js
->
-> [프로젝트 상세 설명(Front-end)](링크를 여기에 입력)
+
