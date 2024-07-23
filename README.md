@@ -36,7 +36,7 @@
 
 ## 2. 🌤️ AIChatbotFriend
 
-  나만의연예인친구 만들기
+  나만의 AI연예인친구 만들기
   
 - ICT한이음멘토링 : 팀프로젝트
 - 개발기간 : 2024.04.01-2024.06.10
@@ -65,5 +65,21 @@
 > - Skill : Springboot
 >   
 > [프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/Bulletin-board-practice)
+>
+
+## 4. 🌤️ homepageAssignment
+
+  여행사홈페이지
+
+- 개인프로젝트
+- 개발기간 : 2023.04.10-2023.06.20
+- 핵심 역활 : 개인
+- 핵심 내용 : 여행사홈페이지(패키지여행)
+
+> ### Front-end
+> - Language : HTML,CSS,JAVASCRIPT
+> - Skill : 
+>   
+> [프로젝트 상세 설명(Front-end)](https://github.com/SeokHoL/homepageAssignment)
 
 
