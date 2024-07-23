@@ -40,6 +40,6 @@
 > ### Back-end
 > - Language : python3
 > - Skill : Streamlit, LangChaing, OPENAI API
-> [프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/mztox)
+> [프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/AIChatbotFriend)
 
 
