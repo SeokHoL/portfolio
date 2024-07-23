@@ -23,7 +23,7 @@
   
 - 미래내일일경험: 팀프로젝트
 - 개발기간 : 2024.07.01-08.22
-- 핵심 역할 : 팀원(백엔드담당), Springboot,SpringSecurity,SrpingJWT를 사용하여 로그인, 회원가입 및 번역페이지 기능구현        
+- 핵심 역할 : 팀원(백엔드담당), Springboot, SpringSecurity, SrpingJWT를 사용하여 로그인, 회원가입 및 번역페이지 기능구현        
 
 > ### Back-end
 > - Language : JAVA
