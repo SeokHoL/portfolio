@@ -54,12 +54,12 @@
   스프링부트로 게시판 만들기
 
 - 개발기간 : 2023.12.20-2024.01.10
-- 역할 및 내용 : 개인, 스프링부트를 기초공부를 위해 게시판 만들기    
+- 역할 및 내용 : 개인, 스프링부트를 기초를 배우면서 게시판만들기  
 
 > ### FullStack
-> - Language : python3
-> - Skill : Streamlit, LangChain, OPENAI API
+> - Language : JAVA
+> - Skill : Springboot
 >   
-> [프로젝트 상세 설명(FullStack)](https://github.com/SeokHoL/AIChatbotFriend)
+> [프로젝트 상세 설명(FullStack)](https://github.com/SeokHoL/Bulletin-board-practice)
 
 
