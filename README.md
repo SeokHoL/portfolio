@@ -26,17 +26,12 @@
 - 핵심 내용 : Spring boot 사용하여 RESTful API 서버 개발을 진행했습니다. 주요 기능으로는 사용자 인증 및 권한 관리, JWT 토큰을 이용한 보안, 유효성 검사,  로그인, 회원 가입, 번역 서비스 등의 기능을 구현하였으며,
   다양한 예외 상황에 대한 적절한 처리를 통해 시스템의 안정성을 높였습니다
 
--   Spring boot 사용하여 RESTful API 서버 개발
--   SpringSecurity를 사용하여 사용자 인증 및 권한 관리
--   Jwt 토큰을 이용한 보안 및 유효성검사
--   로그인, 회원가입, 회원탈퇴, 번역서비스, 최근번역기록 기능 구현  
--   MariaDB 사용하여 회원관리 및 번역내용 저장       
 
-> ### Back-end
+> ### Back-end 담당
 > - Language : JAVA
 > - Skill : SpringBoot, MariaDB
 >   
-> [프로젝트 상세 설명(Back-end)](https://github.com/teamMZtoX)
+> [팀프로젝트 상세 설명(Back-end)](https://github.com/teamMZtoX)
 
 > 
 
@@ -46,7 +41,7 @@
   
 - ICT한이음멘토링 : 팀프로젝트
 - 개발기간 : 2024.04.01 ~ 06.10
-- 핵심 역할 : 팀장(전체기능구현)     
+- 핵심 역할 : 팀장(프로젝트 관리 및 기능구현)     
 - 핵심 내용 : 사용자의입력을 감정분석하여 알맞은 응답이 제공 될수있도록 하고, OPENAI API를 사용하여 대화기능 구현 
   
 > ### FullStack
