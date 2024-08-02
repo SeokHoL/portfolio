@@ -48,7 +48,7 @@
 > - Language : python3
 > - Skill : Streamlit, LangChain, OPENAI API
 >   
-> [프로젝트 상세 설명(FullStack)](https://github.com/SeokHoL/AIChatbotFriend)
+> [팀프로젝트 상세 설명(FullStack)](https://github.com/SeokHoL/AIChatbotFriend)
 
 > 
 
