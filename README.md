@@ -68,7 +68,7 @@
 > [프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/MyBlog)
 >
 
-## 4. 🏖️ homepageAssignment
+## 4. 🏖️ Travel agency website
 
   여행사홈페이지
 
