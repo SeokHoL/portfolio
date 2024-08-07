@@ -65,7 +65,7 @@
 > - Language : JAVA
 > - Skill : Springboot
 >   
-> [프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/MyBlog)
+> [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/MyBlog)
 >
 
 ## 4. 🏖️ Travel agency website
@@ -80,6 +80,6 @@
 > ### Front-end
 > - Language : HTML,CSS,JAVASCRIPT
 >   
-> [프로젝트 상세 설명(Front-end)](https://github.com/SeokHoL/homepageAssignment)
+> [개인프로젝트 상세 설명(Front-end)](https://github.com/SeokHoL/homepageAssignment)
 
 
