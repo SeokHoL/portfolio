@@ -31,7 +31,8 @@
 > ### Back-end 담당
 > - Language : JAVA
 > - Skill : SpringBoot, MariaDB
->   
+>
+> [개인(백엔드담당) 상세 설명(Back-end)](https://github.com/SeokHoL/mztox)  
 > [팀프로젝트 상세 설명(Back-end)](https://github.com/teamMZtoX)
 
 > 
