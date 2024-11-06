@@ -17,7 +17,7 @@
 
 >
 
-## 🧑‍🤝‍🧑 Crash
+## 📝 Crash
   
    개발자 컨퍼런스 홈페이지
   
@@ -34,7 +34,7 @@
 > [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/snsBoard)
 
 
-## 🧑‍🤝‍🧑 thread 스타일의 sns
+## 📝 thread 스타일의 sns
   
    짧은 형태의 텍스트로 사람들과 소통을 나누는 thread 스타일의 sns 플랫폼
   
@@ -51,7 +51,7 @@
 > [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/snsBoard)
 
 > 
-## 🌤️ MZtoX
+## 📝 MZtoX
   
   MZ언어를 표준어로 바꿔 X세대도 알아들을수있는 번역기
   
@@ -71,7 +71,7 @@
 
 > 
 
-## 🤖 AIChatbotFriend
+## 📝 AIChatbotFriend
 
   나만의 AI연예인친구 만들기
   
@@ -104,7 +104,7 @@
 > [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/MyBlog)
 >
 
-## 🏖️ Travel agency website
+## 📝 Travel agency website
 
   여행사홈페이지
 
