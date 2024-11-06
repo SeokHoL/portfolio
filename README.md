@@ -24,14 +24,14 @@
 - 개인 프로젝트
 - 개발기간 : 2024.11.01 ~ 11.06
 - 핵심 역할 : 백엔드
-- 핵심 내용 : 로그인, 회원가입, 게시물, 댓글, 좋아요, 팔로우 기능 개발.
+- 핵심 내용 : 로그인, 회원가입, 세션발표자CRUD, 컨퍼런스 세션 CRUD
 
 > ### Back-end 담당
 > - Language : JAVA
-> - Skill : SpringBoot, Postgresql, Docker
+> - Skill : SpringBoot, Postgresql, Docker, Redis, Slack
 >
 >   
-> [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/snsBoard)
+> [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/crash)
 
 
 ## 📝 thread 스타일의 sns
