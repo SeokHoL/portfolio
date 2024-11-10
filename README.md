@@ -28,7 +28,7 @@
 
 > ### Back-end 담당
 > - Language : JAVA
-> - Skill : SpringBoot, Postgresql, Docker, Redis, Slack
+> - Skill : Spring Boot, Postgresql, Docker, Redis, Slack
 >
 >   
 > [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/crash)
@@ -45,7 +45,7 @@
 
 > ### Back-end 담당
 > - Language : JAVA
-> - Skill : SpringBoot, Postgresql, Docker
+> - Skill : Spring Boot, Postgresql, Docker
 >
 >   
 > [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/snsBoard)
@@ -64,7 +64,7 @@
 
 > ### Back-end 담당
 > - Language : JAVA
-> - Skill : SpringBoot, MariaDB
+> - Skill : Spring Boot, MariaDB
 >
 >   
 > [팀프로젝트 상세 설명(Back-end)](https://github.com/teamMZtoX)
@@ -99,7 +99,7 @@
 
 > ### Back-end
 > - Language : JAVA
-> - Skill : Springboot
+> - Skill : Spring Boot
 >   
 > [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/MyBlog)
 >
@@ -115,7 +115,7 @@
 
 > ### Front-end
 > - Language : HTML,CSS,JAVASCRIPT
->   
+> - Skill : Spring Boot
 > [개인프로젝트 상세 설명(Front-end)](https://github.com/SeokHoL/homepageAssignment)
 
 
