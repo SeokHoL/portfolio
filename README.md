@@ -16,6 +16,21 @@
 각 프로젝트에서는 **개발자로서의 기술적 기여**뿐만 아니라, **팀원들과 협력하여** 프로젝트의 성공적인 완수를 위해 노력했습니다.
 
 >
+##  crypto-dashboard
+  
+   가상자산 조회/환율 서비스
+  
+- 개인 프로젝트
+- 개발기간 : 2024.11.07 ~ 11.012
+- 핵심 역할 : 백엔드
+- 핵심 내용 : 가상자산을 실시간으로 원화로 확인 할 수 있도록 함.
+
+> ### Back-end 담당
+> - Language : JAVA
+> - Skill : Spring Boot, Postgresql, Docker
+>
+>   
+> [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/crypto-dashboard)
 
 ##  Crash
   
