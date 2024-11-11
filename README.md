@@ -29,7 +29,7 @@
 
 > ### Back-end 담당
 > - Language : JAVA
-> - Skill : Spring Boot, PostgreSQL, Docker
+> - Skill : Spring Boot, Spring Security, Docker
 >
 >   
 > [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/crypto-dashboard)
@@ -45,7 +45,7 @@
 
 > ### Back-end 담당
 > - Language : JAVA
-> - Skill : Spring Boot, PostgreSQL, Docker, Redis, Slack
+> - Skill : Spring Boot, Spring Security, PostgreSQL, Docker, Redis, Slack
 >
 >   
 > [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/crash)
@@ -62,7 +62,7 @@
 
 > ### Back-end 담당
 > - Language : JAVA
-> - Skill : Spring Boot, PostgreSQL, Docker
+> - Skill : Spring Boot, Spring Security, PostgreSQL, Docker
 >
 >   
 > [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/snsBoard)
