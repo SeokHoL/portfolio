@@ -16,6 +16,27 @@
 각 프로젝트에서는 **개발자로서의 기술적 기여**뿐만 아니라, **팀원들과 협력하여** 프로젝트의 성공적인 완수를 위해 노력했습니다.
 
 
+
+
+##  📝MZtoX
+  
+  MZ언어를 표준어로 바꿔 X세대도 알아들을수있는 번역기
+  
+- 미래내일일경험: 팀프로젝트
+- 개발기간 : 2024.07.01 ~ 08.22
+- 핵심 역할 : 팀원(백엔드담당)
+- 핵심 내용 : 사용자 인증 및 권한 관리, JWT 토큰을 이용한 보안, 유효성 검사,  로그인, 회원 가입, 번역서비스 등의 기능 구현.
+  
+
+
+> ### Back-end 담당
+> - Language : JAVA
+> - Skill : Spring Boot, MariaDB
+>
+>   
+> [팀프로젝트 상세 설명(Back-end)](https://github.com/teamMZtoX)
+
+> 
   
 >
 ##  📝crypto-dashboard
@@ -68,25 +89,7 @@
 > [개인프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/snsBoard)
 
 > 
-##  📝MZtoX
-  
-  MZ언어를 표준어로 바꿔 X세대도 알아들을수있는 번역기
-  
-- 미래내일일경험: 팀프로젝트
-- 개발기간 : 2024.07.01 ~ 08.22
-- 핵심 역할 : 팀원(백엔드담당)
-- 핵심 내용 : 사용자 인증 및 권한 관리, JWT 토큰을 이용한 보안, 유효성 검사,  로그인, 회원 가입, 번역서비스 등의 기능 구현.
-  
 
-
-> ### Back-end 담당
-> - Language : JAVA
-> - Skill : Spring Boot, MariaDB
->
->   
-> [팀프로젝트 상세 설명(Back-end)](https://github.com/teamMZtoX)
-
-> 
 
 ##  📝AIChatbotFriend
 
