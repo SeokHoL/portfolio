@@ -38,7 +38,22 @@
 
 > 
   
->
+##  📝AIChatbotFriend
+
+  나만의 AI연예인친구 만들기
+  
+- ICT한이음멘토링 : 팀프로젝트
+- 개발기간 : 2024.04.01 ~ 06.10
+- 핵심 역할 : 팀장(프로젝트 관리 및 기능구현)     
+- 핵심 내용 : 사용자의입력을 감정분석하여 알맞은 응답이 제공 될수있도록 하고, OPENAI API를 사용하여 대화기능 구현 
+  
+> ### FullStack
+> - Language : python3
+> - Skill : Streamlit, LangChain, OPENAI API
+>   
+> [팀프로젝트 상세 설명(FullStack)](https://github.com/SeokHoL/AIChatbotFriend)
+
+> 
 ##  📝crypto-dashboard
   
    가상자산 조회/환율 서비스
@@ -91,22 +106,7 @@
 > 
 
 
-##  📝AIChatbotFriend
 
-  나만의 AI연예인친구 만들기
-  
-- ICT한이음멘토링 : 팀프로젝트
-- 개발기간 : 2024.04.01 ~ 06.10
-- 핵심 역할 : 팀장(프로젝트 관리 및 기능구현)     
-- 핵심 내용 : 사용자의입력을 감정분석하여 알맞은 응답이 제공 될수있도록 하고, OPENAI API를 사용하여 대화기능 구현 
-  
-> ### FullStack
-> - Language : python3
-> - Skill : Streamlit, LangChain, OPENAI API
->   
-> [팀프로젝트 상세 설명(FullStack)](https://github.com/SeokHoL/AIChatbotFriend)
-
-> 
 
 ##  📝Myblog
 
