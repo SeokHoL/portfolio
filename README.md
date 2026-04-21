@@ -53,6 +53,25 @@
 >   
 > [팀프로젝트 상세 설명(FullStack)](https://github.com/SeokHoL/AIChatbotFriend)
 
+
+##  📝ChatGPT
+  
+  ChatGPT 만들기
+  
+- 미래내일일경험: 개인프로젝트
+- 개발기간 : 2026.04.06 ~ 04.17
+- 핵심 역할 : 풀스택 개발 (React 기반 UI, Spring Boot API 설계 및 AWS 배포)
+- 핵심 내용 : React와 Spring Boot를 활용하여 OpenAI API 기반 챗봇 서비스를 구현하고, AWS EC2 및 S3를 활용해 배포 및 운영 환경을 구축
+  
+
+
+> ### Back-end 담당
+> - Language : JAVA
+> - Skill : Spring Boot, MariaDB
+>
+>   
+> [팀프로젝트 상세 설명(Back-end)](https://github.com/SeokHoL/my-chatgpt-clone)
+
 > 
 ##  📝crypto-dashboard
   
